@@ -1,7 +1,7 @@
 {
-  "name": "typescript-webpack-min",
+  "name": "linear_search_in_action",
   "version": "1.0.0",
-  "description": "Minium install required for typescript using webpack to transpile to js for node",
+  "description": "Experiment into linear search algorithms",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config=webpack.config.js",

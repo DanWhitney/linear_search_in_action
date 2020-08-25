@@ -5,7 +5,7 @@ const nodeExternals = require('webpack-node-externals')
 module.exports = {
   mode: 'development',
   entry: {
-    main: './src/index.ts'
+    index: './src/index.ts'
   },
   devtool: 'inline-source-map',
   target: 'node',
